@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="row justify-content-md-center">
+        <div class="card">
+        <div class="card-header text-center">Login</div>
+        <div class="col-md-auto">
+            <div class="card-body">
+                <div [formGroup]="loginForm">
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" placeholder="Username" 
+                        aria-label="Username"
+                        aria-describedby="basic-addon1"
+                        formControlName="username"
+                        >
+                    </div>
+        
+                    <div class="input-group mb-3">
+                        <input type="password" class="form-control" placeholder="Password" 
+                        aria-label="Password"
+                        aria-describedby="basic-addon1"
+                        formControlName="password"
+                        >
+                    </div>
+                    <div style="float:none">
+                        <button type="button" class="btn btn-outline-dark" (click)="login()" class="form-control">Login</button>
+                    </div>
+                </div>
+                <div *ngIf="valid" class="text-success">Login Successfull</div>
+                <div *ngIf="errorMessage!=''" class="text-danger">{{errorMessage}}</div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

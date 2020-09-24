@@ -1,0 +1,41 @@
+<div class="container">
+    <div class="row justify-content-md-center">
+        <div class="card">
+            <div class="card-header text-center">Register</div>
+            <div class="col-md-auto">
+                <div class="card-body">
+                    <div [formGroup]="registerForm">
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control" placeholder="Username" 
+                            aria-label="Username"
+                            aria-describedby="basic-addon1"
+                            formControlName="username"
+                            >
+                        </div>
+        
+                        <div class="input-group mb-3">
+                            <input type="email" class="form-control" placeholder="Email" 
+                            aria-label="Email"
+                            aria-describedby="basic-addon1"
+                            formControlName="email"
+                            >
+                        </div>
+        
+                        <div class="input-group mb-3">
+                            <input type="password" class="form-control" placeholder="Password" 
+                            aria-label="Password"
+                            aria-describedby="basic-addon1"
+                            formControlName="password"
+                            >
+                        </div>
+                        <div style="float: none">
+                            <button type="button" class="btn btn-success" class="form-control" (click)="register()">Register</button>
+                        </div>
+                    </div>
+                    <div *ngIf="valid" class="text-success">Register Successfull</div>
+                    <div *ngIf="errorMessage!=''" class="text-danger">{{errorMessage}}</div>
+                </div>
+            </div>
+        </div> 
+    </div>
+</div>

@@ -1,0 +1,548 @@
+Fri Jul 31 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Fri Jul 31 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Fri Jul 31 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Fri Jul 31 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: "sid@gmail.com" }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: "sid1@gmail.com" }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Wed Aug 12 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:20:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: "sid@gmail.com" }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:42:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: eCommerceDB.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Aug 27 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-Error: ENOENT: no such file or directory, stat 'G:\e-commerce\eCommerceWebBackend\src\routes\index.html'Fri Aug 28 2020-Error: ENOENT: no such file or directory, stat 'G:\e-commerce\eCommerceWebBackend\src\routes\index.html'Fri Aug 28 2020-Error: ENOENT: no such file or directory, stat 'G:\e-commerce\eCommerceWebBackend\src\routes\index.html'Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-Error: No default engine was specified and no extension was provided.
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:61:11)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7Fri Aug 28 2020-Error: Cannot find module 'html'
+Require stack:
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\express.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\index.js
+- G:\e-commerce\eCommerceWebBackend\src\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:81:14)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)Fri Aug 28 2020-Error: Cannot find module 'pug'
+Require stack:
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\express.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\index.js
+- G:\e-commerce\eCommerceWebBackend\src\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:81:14)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)Fri Aug 28 2020-Error: Cannot find module 'pug'
+Require stack:
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\express.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\index.js
+- G:\e-commerce\eCommerceWebBackend\src\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:81:14)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)Fri Aug 28 2020-Error: Cannot find module 'pug'
+Require stack:
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\express.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\index.js
+- G:\e-commerce\eCommerceWebBackend\src\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:81:14)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)Fri Aug 28 2020-Error: Cannot find module 'pug'
+Require stack:
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\express.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\index.js
+- G:\e-commerce\eCommerceWebBackend\src\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:81:14)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)Fri Aug 28 2020-Error: Failed to lookup view "login" in views directory "G:\e-commerce\eCommerceWebBackend\src\views"
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)Fri Aug 28 2020-Error: G:\e-commerce\eCommerceWebBackend\src\views\login.pug:8:10
+    6| 
+    7|   <style>
+  > 8|     .card{
+----------------^
+    9|       border: 2px solid;
+    10|       border-radius: 20px;
+    11|       border-style: inset;
+
+unexpected text "{
+   "
+    at makeError (G:\e-commerce\eCommerceWebBackend\node_modules\pug-error\index.js:34:13)
+    at Lexer.error (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:62:15)
+    at Lexer.fail (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1624:10)
+    at Lexer.advance (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1689:12)
+    at Lexer.callLexerFunction (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1642:23)
+    at Lexer.getTokens (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1701:12)
+    at lex (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:12:42)
+    at Object.lex (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:104:9)
+    at Function.loadString [as string] (G:\e-commerce\eCommerceWebBackend\node_modules\pug-load\index.js:53:24)
+    at compileBody (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:82:18)
+    at Object.exports.compile (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:267:16)
+    at handleTemplateCache (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:240:25)
+    at Object.exports.renderFile (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:452:10)
+    at Object.exports.renderFile (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:442:21)
+    at View.exports.__express [as engine] (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:491:11)
+    at View.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:135:8)Fri Aug 28 2020-Error: Failed to lookup view "login" in views directory "G:\e-commerce\eCommerceWebBackend\src\views"
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)Fri Aug 28 2020-Error: Cannot find module 'html'
+Require stack:
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\express.js
+- G:\e-commerce\eCommerceWebBackend\node_modules\express\index.js
+- G:\e-commerce\eCommerceWebBackend\src\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:982:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:864:27)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at new View (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:81:14)
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)Fri Aug 28 2020-Error: Failed to lookup view "login" in views directory "G:\e-commerce\eCommerceWebBackend\src\login"
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)Fri Aug 28 2020-Error: Failed to lookup view "login" in views directory "G:\e-commerce\eCommerceWebBackend\src\login"
+    at Function.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\application.js:580:17)
+    at ServerResponse.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\response.js:1012:7)
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:7:16
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)Fri Aug 28 2020-Error: G:\e-commerce\eCommerceWebBackend\src\views\login.pug:8:10
+    6| 
+    7|   <style>
+  > 8|     .card{
+----------------^
+    9|       border: 2px solid;
+    10|       border-radius: 20px;
+    11|       border-style: inset;
+
+unexpected text "{
+   "
+    at makeError (G:\e-commerce\eCommerceWebBackend\node_modules\pug-error\index.js:34:13)
+    at Lexer.error (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:62:15)
+    at Lexer.fail (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1624:10)
+    at Lexer.advance (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1689:12)
+    at Lexer.callLexerFunction (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1642:23)
+    at Lexer.getTokens (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:1701:12)
+    at lex (G:\e-commerce\eCommerceWebBackend\node_modules\pug-lexer\index.js:12:42)
+    at Object.lex (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:104:9)
+    at Function.loadString [as string] (G:\e-commerce\eCommerceWebBackend\node_modules\pug-load\index.js:53:24)
+    at compileBody (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:82:18)
+    at Object.exports.compile (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:267:16)
+    at handleTemplateCache (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:240:25)
+    at Object.exports.renderFile (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:452:10)
+    at Object.exports.renderFile (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:442:21)
+    at View.exports.__express [as engine] (G:\e-commerce\eCommerceWebBackend\node_modules\pug\lib\index.js:491:11)
+    at View.render (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\view.js:135:8)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Fri Aug 28 2020-Error: User not registered
+    at G:\e-commerce\eCommerceWebBackend\src\services\user.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Fri Aug 28 2020-ReferenceError: userObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:31:26
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (G:\e-commerce\eCommerceWebBackend\src\utilities\requestLogger.js:9:5)Fri Aug 28 2020-ReferenceError: userObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:31:26
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (G:\e-commerce\eCommerceWebBackend\src\utilities\requestLogger.js:9:5)Fri Aug 28 2020-ReferenceError: userObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:31:26
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (G:\e-commerce\eCommerceWebBackend\src\utilities\requestLogger.js:9:5)Fri Aug 28 2020-ReferenceError: userObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:31:26
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (G:\e-commerce\eCommerceWebBackend\src\utilities\requestLogger.js:9:5)Fri Aug 28 2020-ReferenceError: userObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:31:26
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (G:\e-commerce\eCommerceWebBackend\src\utilities\requestLogger.js:9:5)Fri Aug 28 2020-ReferenceError: userObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:31:26
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:317:13)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\e-commerce\eCommerceWebBackend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (G:\e-commerce\eCommerceWebBackend\src\utilities\requestLogger.js:9:5)Sun Aug 30 2020-ReferenceError: loginObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:12:63
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Sun Aug 30 2020-ReferenceError: loginObj is not defined
+    at G:\e-commerce\eCommerceWebBackend\src\routes\routing.js:12:63
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Thu Sep 24 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Sep 24 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Sep 24 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Sep 24 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)Thu Sep 24 2020-MongoError: E11000 duplicate key error collection: acceleratedemo.cartUser index: emailid_1 dup key: { emailid: null }
+    at Function.create (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\error.js:51:12)
+    at toError (G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\utils.js:149:22)
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at G:\e-commerce\eCommerceWebBackend\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
